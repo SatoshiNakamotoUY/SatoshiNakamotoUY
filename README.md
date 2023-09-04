@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @SatoshiNakamotoUY
+- 👋 Hi, I’m @SatoshiUY
 - I am a hobby coder at the moment lerning some Haskell !
 - You can visit my website at www.satoshiuy.com in which I post cryptocurrencies related articles! 
